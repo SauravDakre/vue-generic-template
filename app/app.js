@@ -1,8 +1,8 @@
-import Vue from 'vue/dist/vue.js';
+import Vue from "vue/dist/vue.js";
 
 const app = new Vue({
-    el: '#root',
+    el: "#root",
     data: {
-        message: 'Vue Component'
+        message: "Vue Component"
     }
-})
+});
